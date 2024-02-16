@@ -2,11 +2,11 @@
 Spotify Clone is a web application developed using HTML, CSS, and JavaScript aiming to replicate the renowned music streaming platform, Spotify. This project serves as both a learning exercise and a showcase of front-end development skills.
 
 ## Features:
--1.User-friendly interface: The application boasts an intuitive and visually appealing interface, mimicking Spotify's design and layout. Users can seamlessly navigate and interact with various features.
--2.Song playback: Users can browse, search for their favorite songs and artists, and play tracks directly within the application. The player includes controls for play, pause, next, and previous tracks.
--3. Playlists: Users can create and manage personalized playlists, add songs, and remove unwanted tracks. Playlists are dynamically updated, reflecting user modifications.
--4. Discover new music: The application incorporates a recommendation system suggesting songs and artists based on the user's listening history and preferences, facilitating exploration of new music aligned with their tastes.
--5. Responsive design: Built with responsive design principles, ensuring optimal viewing and interaction experiences across a variety of devices, including desktops, tablets, and mobile phones.
+- 1. User-friendly interface: The application boasts an intuitive and visually appealing interface, mimicking Spotify's design and layout. Users can seamlessly navigate and interact with various features.
+- 2. Song playback: Users can browse, search for their favorite songs and artists, and play tracks directly within the application. The player includes controls for play, pause, next, and previous tracks.
+- 3. Playlists: Users can create and manage personalized playlists, add songs, and remove unwanted tracks. Playlists are dynamically updated, reflecting user modifications.
+- 4. Discover new music: The application incorporates a recommendation system suggesting songs and artists based on the user's listening history and preferences, facilitating exploration of new music aligned with their tastes.
+- 5. Responsive design: Built with responsive design principles, ensuring optimal viewing and interaction experiences across a variety of devices, including desktops, tablets, and mobile phones.
 
 ## How to Use:
 - Clone this repository to your local machine.
